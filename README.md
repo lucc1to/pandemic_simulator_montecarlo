@@ -1,2 +1,3 @@
-# pandemic_simulator_montecarlo
-Pandemic simulator with the ability to set baseline values
+#wymagania:
+#Python 3.13.12
+#Otwórz w jupyter notebook

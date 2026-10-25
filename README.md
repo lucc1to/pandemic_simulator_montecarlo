@@ -1,8 +1,7 @@
-# Pandemic Simulator — Monte Carlo 🦠
+# Pandemic Simulator — Monte Carlo 
 
 An agent-based Monte Carlo simulation of an epidemic. 1,500 people move randomly on a 140×140 grid for 200 days. Infected agents spread the virus to anyone within a contact radius with a given probability, and recover with some chance after a minimum illness period. The notebook compares how **vaccination** and a **lockdown** change the course of the outbreak.
 
-![Baseline simulation – snapshots](images/snapshots_baseline.png)
 
 ## Experiments
 
